@@ -1,1 +1,1 @@
-SokonoOmae! LemonikkobunniFukumareruVitaminChaLemonikkobundaze!# myproject
+project is starting# myproject
